@@ -2,6 +2,8 @@
 
 A small node wrapper for force killing processes (not graceful)
 
+[![Build Status](https://travis-ci.org/bradjasper/node-force-kill.png)](https://travis-ci.org/bradjasper/node-force-kill)
+
 ## Install
 
     npm install force-kill
