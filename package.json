@@ -1,7 +1,7 @@
 {
     "name": "force-kill",
     "description": "A small node wrapper for force killing processes (not graceful)",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "homepage": "https://github.com/bradjasper/force-kill",
     "keywords": [
         "force-kill",
