@@ -1,0 +1,39 @@
+{
+    "name": "force-kill",
+    "description": "A small node wrapper for force killing processes (not graceful)",
+    "version": "0.0.1",
+    "homepage": "https://github.com/bradjasper/force-kill",
+    "keywords": [
+        "force-kill",
+        "process",
+        "kill",
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bradjasper/force-kill.git"
+    },
+    "author": {
+        "name": "Brad Jasper",
+        "email": "contact@bradjasper.com",
+        "url": "http://bradjasper.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://github.com/bradjasper/force-kill/blob/master/LICENSE.txt"
+        }
+    ],
+    "main": "src/index.js",
+    "engines": {
+        "node": ">= 0.6.x"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "mocha": "*",
+        "should": "*"
+    },
+    "private": false,
+    "scripts": {
+        "test": "./node_modules/mocha/bin/mocha"
+    }
+}
