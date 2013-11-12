@@ -1,4 +1,4 @@
-# force-kill
+# node-force-kill
 
 A small node wrapper for force killing processes (not graceful)
 
